@@ -1,12 +1,6 @@
 # React API/MVC Application
 
-This application currently (11/08/2022) does a Javascript "fetch"
-to retrieve data from an internal API for "VideoGames".
-
-As we progress, we will transform this app with a design to use the
-"Model View Controller" paradigm when interacting with the API.
-
-The final program will perform the 4 basic "CRUD" functions for
+The final program performs the 4 basic "CRUD" functions for
 API/Database work:
 
 - Create (POST) new data records
